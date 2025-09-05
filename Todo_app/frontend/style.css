@@ -1,0 +1,10 @@
+.list-group-item.pendiente {
+  background-color: #f8d7da;
+}
+.list-group-item.en_progreso {
+  background-color: #fff3cd;
+}
+.list-group-item.completada {
+  background-color: #d4edda;
+  text-decoration: line-through;
+}
